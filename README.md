@@ -45,8 +45,7 @@ Uses:
 ## License
 
 This hackathon project does **not** have a license: [No
-License](https://choosealicense.com/no-permission/). This means **no
-permission**, not **do whatever you want**.
+License](https://choosealicense.com/no-permission/).
 
 ## I found your API key in a past commit!
 
